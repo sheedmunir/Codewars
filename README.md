@@ -8,12 +8,15 @@ A collection of my solutions to various Codewars problems — auto-synced using 
 
 Solutions are organized by language and difficulty (kyu level):
 
-\```
-language/
-  └── kyu-level/
-        └── kata-name/
-              └── solution files
-\```
+
+    language/
+
+      └── kyu-level/
+  
+            └── kata-name/
+        
+                  └── solution files
+              
 
 ## 📈 Progress
 
