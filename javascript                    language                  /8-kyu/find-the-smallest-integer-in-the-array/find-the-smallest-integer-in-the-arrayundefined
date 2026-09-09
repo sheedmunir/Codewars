@@ -1,0 +1,16 @@
+function findSmallestInt(arr) {
+  var low = arr[0];
+ const number = arr.length;
+  
+  for(var i = 1;i<number;i++){
+   
+    if(arr[i]<low){
+        low = arr[i];
+        }
+    else{
+        low = low;
+        }
+  }
+  
+  return low;
+}
